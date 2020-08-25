@@ -26,3 +26,11 @@ p {
     font-size: 21px;
     color: gray;
 }
+
+.bott-padding {
+    padding-bottom: 1.5rem;
+}
+
+#iphone-logo {
+    padding-top: 1.5rem;
+}
